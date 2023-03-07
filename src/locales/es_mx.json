@@ -1,0 +1,148 @@
+{
+  "COMMON" : {
+    "HEADER" : {
+      "EXTRAS" : {
+        "CHANGES" : "Últimos Cambios",
+      },
+
+      "SEARCH" : {
+        "PLACEHOLDER" : "Buscar en la documentación…"
+      }
+    },
+
+    "FOOTER" : {
+      "ENGINE" : {
+        "GENERATED_BY" : "Documentación generada por",
+        "PROJECT_FROM" : "Un proyecto de open-source de"
+      },
+
+      "STATUS" : {
+        "LABEL_FAILURE" : "Fallo revisando status",
+        "LABEL_HEALTHY" : "Todos los sistemas están saludables",
+        "LABEL_SICK" : "Ralentización del servicio en curso",
+        "LABEL_DEAD" : "Interrupción del servicio en curso",
+        "TIME_LAST" : "Última comprobación",
+        "TIME_AGO" : "ago"
+      }
+    },
+
+    "SEARCH" : {
+      "FIELD" : {
+        "INPUT_PLACEHOLDER" : "Encuentra cualquier cosa en la documentación…"
+      },
+
+      "LEGEND" : {
+        "SHORTCUT_NAVIGATE" : "Navegar",
+        "SHORTCUT_GO" : "Ir a",
+        "SHORTCUT_CLOSE" : "Cerrar",
+        "ERROR_INDEX" : "Búsqueda no disponible",
+      }
+    },
+
+    "CODE" : {
+      "META_NAME_REQUEST" : "Solicitud",
+      "META_NAME_RESPONSE" : "Respuesta",
+      "CONTENT_LOADING" : "(Cargando)"
+    },
+
+    "METAS" : {
+      "SITE_NAME" : "Centro de Desarrolladores",
+    }
+  },
+
+  "HOME" : {
+    "PAGE" : "Centro de desarrolladores",
+    "TITLE" : "Bienvenido al centro de desarrolladores",
+    "LABEL" : "Leer guías y buscar referencias.",
+
+    "BULLETPOINTS" : {
+      "QUICKSTART" : "Iniciar",
+      "GUIDES"     : "Guías",
+      "REFERENCES" : "Referencias"
+    },
+
+    "SUPPORT" : {
+      "QUESTION" : "Hay algo que no encuentras en la documentación?",
+      "LABEL" : "Pregunta a nuestro equipo de soporte, en cualquier momento.",
+      "ACTION" : "Chatear con soporte"
+    }
+  },
+
+  "GUIDES" : {
+    "DETAILS" : {
+      "FEEDBACK" : "Danos tu opinión",
+      "UPDATED" : "Actualizado en",
+      "TITLE_INDEX" : "Introducción",
+    }
+  },
+
+  "REFERENCES" : {
+    "BLUEPRINT" : {
+      "GROUP" : {
+        "ORIGIN_IN" : "en"
+      },
+
+      "SPECIFICATION" : {
+        "REQUEST_FORMAT_TITLES" : {
+          "DATA_REQUEST" : "Cuerpo de la solicitud",
+          "DATA_RESPONSE" : "Datos de respuesta",
+          "URI_PARAMETERS" : "Parámetros URI",
+        },
+
+        "REQUEST_FORMAT_REQUIRED" : "Requerido",
+        "REQUEST_FORMAT_OPTIONAL" : "Opcional",
+        "REQUEST_FORMAT_MEMBERS" : "Valores",
+        "REQUEST_FORMAT_TOGGLE_SHOW": "Mostrar parámetros hijos",
+        "REQUEST_FORMAT_TOGGLE_HIDE": "Ocultar parámetros hijos",
+      },
+
+      "EXAMPLES" : {
+        "DETAILS" : {
+          "TIERS" : "Tiers",
+          "SCOPES" : "Scopes"
+        }
+      }
+    },
+
+    "MARKDOWN" : {
+      "DETAILS" : {
+        "UPDATED" : "Actualizado en"
+      }
+    }
+  },
+
+  "CHANGES" : {
+    "PAGE" : "Últimos Cambios",
+    "TITLE_FEED" : "Cambios de la plataforma",
+    "TITLE_LATEST" : "Últimos Cambios de la plataforma",
+    "TITLE_YEAR" : "Plataforma Cambio En",
+    "NOTICE" : "Esta página es un registro de todos los cambios notables que ocurrieron a lo largo del tiempo.\n\n**Tenga en cuenta que los cambios importantes aparecen en rojo.**\n\nSi desea monitorear esos cambios, hay una fuente RSS disponible en: [`changes.rss`](/changes.rss)",
+
+    "NAVIGATE" : {
+      "LATEST" : "Lo último"
+    },
+
+    "MONTHS" : {
+      "01" : "Enero",
+      "02" : "Febrero",
+      "03" : "Marzo",
+      "04" : "Abril",
+      "05" : "Mayo",
+      "06" : "Junio",
+      "07" : "Julio",
+      "08" : "Agosto",
+      "09" : "Septiembre",
+      "10" : "Octubre",
+      "11" : "Noviembre",
+      "12" : "Diciembre"
+    }
+  },
+
+  "NOT_FOUND" : {
+    "PAGE" : "Página no encontrada",
+    "TITLE" : "Oops. ¡No podemos encontrar esa página!",
+    "LABEL_FIRST" : "Has llegado a una página que no existe.",
+    "LABEL_SECOND" : "Puede que haya sido eliminado.",
+    "ACTION" : "Ir a la página de inicio"
+  }
+}
