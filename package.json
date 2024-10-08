@@ -1,5 +1,5 @@
 {
-  "name": "chappe",
+  "name": "chappe-esp",
   "description": "Developer Docs builder. Write guides in Markdown and references in API Blueprint. Comes with a built-in search engine.",
   "version": "1.9.3",
   "homepage": "https://github.com/crisp-oss/chappe",
